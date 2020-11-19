@@ -84,7 +84,6 @@ Key Pillars of DevOps + SRE
                 - reduce toil, up engineering
 
 To sum up: SRE Overall goal is to make better software faster!
-[<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/sre-goal.png">]
 
 SRE: Site Reliability Engineering 
 1.  define availability
