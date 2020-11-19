@@ -1,7 +1,9 @@
 # GCP-DevOps-SRE-Part2
+
+
 https://learn.acloud.guru/course/1c5c969b-7881-47e9-a7d1-b4a7c65cbe67/dashboard
 
-chapter 2: Balancing change, velocity, and service reliability with SREs
+chapter 2.1: Balancing change, velocity, and service reliability with SREs
 - Big Picture: What is Site Reliability Engineering? 
   -  Team DEV - new features getting to market quicky
   -  Team OPS - goal s smoothly BUT new features breaks the smooth operation
@@ -81,5 +83,25 @@ Key Pillars of DevOps + SRE
             Measure toil and reliability
                 - key to SLOs and SLAs
                 - reduce toil, up engineering
-                - 
+
+To sum up: SRE Overall goal is to make better software faster!
+[<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/sre-goal.png">]
+
+SRE: Site Reliability Engineering 
+1.  define availability
+2.  determine level of availability
+3.  plan in case of failure
+
+chapter 2.2: Understanding SLIs (service level indicators)
+
+SRE: Site Reliability Engineering 
+1.  define availability
+    - SLO: service level objective
+2.  determine level of availability <>
+    - SLI: service level indicator
+3.  detail what happens when availability fails
+    - SLA: service level agreement 
+
+SLI: " a crefully defined quantitative measure of some aspect ofg the level of service that is provided."
+SLIs are metrics over time - specific to a user journey such as request/response, data processing, or storage - that show how well a service is doing. 
 
