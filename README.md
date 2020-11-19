@@ -54,7 +54,32 @@ Key Pillars of DevOps + SRE
       - Try not to anticipate, but...
       - Incidents bound to occur
       - Failures help team learn
-    No-fault post mortems & SLOs - 
-      - No Two failures the same 
-      - Track incidents (SLIs)
-      - Map to Objectives (SLOs)
+            No-fault post mortems & SLOs 
+              - No Two failures the same 
+              - Track incidents (SLIs)
+              - Map to Objectives (SLOs)
+    Implement gradual change
+      - small updates are better
+      - easier to review
+      - easier to rollback
+             Reduce cost of failures
+              - limited "'canary" rollouts - test small portions of user the gradually expand the user base.
+              - impact fewest users
+              - automate where possible
+    Leverage tooling and automation
+      - Reduce manual tasks
+      - The heart of CI/CD pipelines
+      - Fosters speed and consistency
+            Automate this year's job away
+                - automation is a force multiplier
+                - autonomous automation best
+                - centralizes mistakes
+    Measure everything
+      - critical gauges of success
+      - CI/CD needs full monitoring 
+      - synthetic, proactive monitoring 
+            Measure toil and reliability
+                - key to SLOs and SLAs
+                - reduce toil, up engineering
+                - 
+
