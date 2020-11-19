@@ -117,6 +117,7 @@ Targeting a User Journey:
     Data Processing Journey:
         - freshness - proportion of valid data updated more recently that a thereshold.
         - correctness - proportion of a valid data producing correc output.
+        - throughput - proportion of time where the data procressing rate is faster than a threshold.
 What's a user Journey ?
     - sequence of tasks central to a user experience and crucial to service
     - online shopping journeys:
