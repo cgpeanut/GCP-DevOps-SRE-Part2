@@ -44,3 +44,17 @@ Why reliabilty ?
 
 class SRE Implements DevOps
 [<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/class_SRE_Implements_DevOps.png">]
+
+Key Pillars of DevOps + SRE
+
+    Share Ownership
+      - Developers + Operations
+      - Implement same tooling (Jenkins, ansible, terraform) - Jira/azure devops (Project mgmt)
+    Accept failure as normal 
+      - Try not to anticipate, but...
+      - Incidents bound to occur
+      - Failures help team learn
+    No-fault post mortems & SLOs - 
+      - No Two failures the same 
+      - Track incidents (SLIs)
+      - Map to Objectives (SLOs)
