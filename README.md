@@ -24,11 +24,14 @@ Key Pillars of DevOpsi Rms together
        - Easier to rollback
 
     Leverage Tooling & automation
-    - Reduce manual task
-    - The heart of CI/CD pipelines
-    - Fosters sopeed & consistency
+       - Reduce manual task
+       - The heart of CI/CD pipelines
+       - Fosters sopeed & consistency
     
     Measure Everything
-    - Critical gauge of success
-    - CI/CD needs full monitoring 
-    - Synthetic, proactive monitoring
+       - Critical gauge of success
+       - CI/CD needs full monitoring 
+       - Synthetic, proactive monitoring
+
+Site Reliability Engineering (SRE) - what happens when a software engineer is tasked with what used to be called operations.
+
