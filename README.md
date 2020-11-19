@@ -8,8 +8,9 @@ chapter 2: Balancing change, velocity, and service reliability with SREs
 DevOps - A software engineering culture and practice, that aims at unifying software development and software operations.
 
 DevOps infinity Loop:
+[<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/data/infinity_loop.png">]
 
-Key Pillars of DevOpsi Rms together
+Key Pillars of DevOps
     
     Reduce Organizational Silos:
         - Bridge teams together
@@ -33,5 +34,12 @@ Key Pillars of DevOpsi Rms together
        - CI/CD needs full monitoring 
        - Synthetic, proactive monitoring
 
-Site Reliability Engineering (SRE) - what happens when a software engineer is tasked with what used to be called operations.
+Site Reliability Engineering (SRE) - what happens when a software engineer is tasked with what used to be called opeations.
 
+Why reliabilty ?
+    - most important: does the product work ?
+    - Reliability is the absence of errors.
+    - Unstable service likely indicates a variety of issues. 
+    - Must attend to reliability all the time - not justr when there is your hair is on fire. 
+
+class SRE Implements DevOps
