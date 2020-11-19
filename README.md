@@ -101,7 +101,8 @@ SRE: Site Reliability Engineering
     - SLA: service level agreement 
 
 SLI: " a crefully defined quantitative measure of some aspect ofg the level of service that is provided."
-SLIs are metrics over time - specific to a user journey such as request/response, data processing, or storage - that show how well a service is doing. 
+SLIs are metrics over time - specific to a user journey such as request/response, data processing, or storage - that show how well a service is doing.
+
     example SLIs:
         - Request latency - how long it takes to return a response to a request.
         - failure rate - a fraction of all rates received: (unsuccessful requests/all requests).
