@@ -44,8 +44,7 @@ Why reliabilty ?
     - Unstable service likely indicates a variety of issues. 
     - Must attend to reliability all the time - not justr when there is your hair is on fire. 
 
-class SRE Implements DevOps
-[<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/class_SRE_Implements_DevOps.png">]
+class SRE(The How) Implements DevOps (The What!)
 
 Key Pillars of DevOps + SRE
 
