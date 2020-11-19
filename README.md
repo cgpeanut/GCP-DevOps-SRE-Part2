@@ -8,7 +8,7 @@ chapter 2: Balancing change, velocity, and service reliability with SREs
 DevOps - A software engineering culture and practice, that aims at unifying software development and software operations.
 
 DevOps infinity Loop:
-[<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/data/infinity_loop.png">]
+[<img src="https://github.com/cgpeanut/GCP-DevOps-SRE-Part2/blob/main/infinity_loop.png">]
 
 Key Pillars of DevOps
     
