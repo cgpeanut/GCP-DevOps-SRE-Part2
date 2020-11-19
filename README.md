@@ -108,3 +108,23 @@ SLIs are metrics over time - specific to a user journey such as request/response
         - failure rate - a fraction of all rates received: (unsuccessful requests/all requests).
         - batch throughput - proportion of time - data processing rate > than a threshold.
 
+Targeting a User Journey:
+    Request/Response Journey:
+        - availability - proportion of valid requests served succesfully.
+        - latency - proportion of valid requests served faster than a threshold.
+        - quality - proportion of valid requests served maintaining quality.
+
+    Data Processing Journey:
+        - freshness - proportion of valid data updated more recently that a thereshold.
+        - correctness - proportion of a valid data producing correc output.
+What's a user Journey ?
+    - sequence of tasks central to a user experience and crucial to service
+    - online shopping journeys:
+      - product search
+      - add to cart
+      - checkout
+    - 
+
+
+
+
